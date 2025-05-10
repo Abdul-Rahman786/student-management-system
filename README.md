@@ -28,8 +28,7 @@ This is a CRUD (Create, Update, Delete, Read) application built using ASP.NET wi
 - Entity Framework Core (Code First)
 - HTML/CSS for frontend
 - C# for backend logic
-
-
+-SQL Server Management Studio for Databases
 
 ## Project Structure
 - `Controllers/`: Contains the logic for handling HTTP requests.
