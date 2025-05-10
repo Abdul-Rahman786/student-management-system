@@ -14,15 +14,14 @@ This is a CRUD (Create, Update, Delete, Read) application built using ASP.NET wi
 
 ## Screenshots
 - [Create Page](![image](https://github.com/user-attachments/assets/1c846831-a05a-430f-8a34-d661252c1faa)
-)
-)
+
 - [Edit Page](![image](https://github.com/user-attachments/assets/ed71cfec-d673-4dc5-a67d-3cb59eaf9f91)
-)
-)
+
+
 - [Delete Confirmation Page](![image](https://github.com/user-attachments/assets/860b162f-60c7-4f89-97e1-b503b98aa951)
-)
+
 - [Index/List Page](![image](https://github.com/user-attachments/assets/af73bb6b-3a52-44f7-a868-13aad88c9bc8)
-)
+
 
 ## Technologies Used
 - ASP.NET Core
